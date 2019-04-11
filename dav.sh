@@ -67,23 +67,28 @@ echo $pu"List Target:"
 echo $pu"==========================="
 echo $me"
 http://contsol.co.za
-
 http://colourfactory.co.za
-
 http://scnc.co.za
-
 http://windmillsandporcupines.co.za
-
-http://cblandscapes.co.za
-
+http://cblandscapes.co.z
 http://naturaleyeimages.com
-
 http://bitsandpieces.co.za
+http://infussion.co.za
+http://thepremiummakers.com
+http://mocosi.co.za
+http://itsengineering.co.za
+http://handj.co.za
+http://ayk.co.za
+http://holotropicbreathwork.co.za
+http://foodconsult.co.za
+http://daretogowildafrica.co.za
+http://hybriddevelopments.co.za
+
 "
 
 echo ""
 echo $pu"==========================="
-echo -n $i"Masukan Target:" 
+echo -n $i"Masukan Salah Satu Target:" 
 read tg
 echo ""
 echo -n $i"Target $tg !" $cy"Tekan Enter Untuk Tusbol.."
